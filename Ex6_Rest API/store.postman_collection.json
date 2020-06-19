@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "1088e266-ebd2-4164-a054-dc62e63be754",
+		"name": "store",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://petstore.swagger.io/v2/store/order",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 15435006002259,\r\n  \"petId\": 0,\r\n  \"quantity\": 0,\r\n  \"shipDate\": \"2020-06-02T08:52:41.295+0000\",\r\n  \"status\": \"placed\",\r\n  \"complete\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://petstore.swagger.io/v2/store/order",
+					"protocol": "https",
+					"host": [
+						"petstore",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"v2",
+						"store",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://petstore.swagger.io/v2/store/order/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://petstore.swagger.io/v2/store/order/1",
+					"protocol": "https",
+					"host": [
+						"petstore",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"v2",
+						"store",
+						"order",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://petstore.swagger.io/v2/store/order/1",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"sold\": 214,\r\n  \"string\": 234,\r\n  \"Operated\": 4,\r\n  \"pending\": 188,\r\n  \"Not-Operated\": 10,\r\n  \"available\": 297,\r\n  \"<script>alert(1)</script>\": 1,\r\n  \"Available\": 3,\r\n  \"Not For Sale\": 7,\r\n  \"</span><script>alert(1)</script>\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://petstore.swagger.io/v2/store/inventory",
+					"protocol": "https",
+					"host": [
+						"petstore",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"v2",
+						"store",
+						"inventory"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://petstore.swagger.io/v2/store/order/1",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"sold\": 214,\r\n  \"string\": 234,\r\n  \"Operated\": 4,\r\n  \"pending\": 188,\r\n  \"Not-Operated\": 10,\r\n  \"available\": 297,\r\n  \"<script>alert(1)</script>\": 1,\r\n  \"Available\": 3,\r\n  \"Not For Sale\": 7,\r\n  \"</span><script>alert(1)</script>\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://petstore.swagger.io/v2/store/inventory",
+					"protocol": "https",
+					"host": [
+						"petstore",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"v2",
+						"store",
+						"inventory"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

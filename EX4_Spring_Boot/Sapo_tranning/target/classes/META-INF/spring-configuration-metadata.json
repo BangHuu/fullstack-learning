@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "Model.MoneyAtm",
+      "name": "money",
+      "type": "Model.MoneyAtm"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "Model.MoneyAtm",
+      "name": "money.money-atm",
+      "type": "java.math.BigDecimal"
+    }
+  ]
+}

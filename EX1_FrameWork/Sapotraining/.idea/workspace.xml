@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f823843-1e55-46d7-beee-063b30a645a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sapotraining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compareIgnorecase/CompareIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/containsany/ContainsAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/countmatches/CountMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lowercase/LowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prependIfmissing/PrependIfMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uppercase/UpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Sapotraining-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Sapotraining-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo/DemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/accessors-smart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/android-json-0.0.20131108.vaadin1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/asm-5.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/assertj-core-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/byte-buddy-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/byte-buddy-agent-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/hamcrest-library-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/json-path-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/json-smart-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/jsonassert-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/log4j-api-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/log4j-to-slf4j-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/mockito-core-2.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/objenesis-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/snakeyaml-1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-aop-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-beans-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-autoconfigure-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-starter-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-starter-logging-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-starter-test-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-test-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-boot-test-autoconfigure-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-context-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-core-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-expression-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-jcl-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/spring-test-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/xmlunit-core-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/run.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cR2a6ujgUCGWzh3gjgh4ZRRJlr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="ContainsAny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containsany.ContainsAny" />
+      <module name="Sapotraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="containsany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.DemoApplication" />
+      <module name="Sapotraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoApplication" />
+      <module name="Sapotraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Sapotraining" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Sapotraining" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication (1)" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.ContainsAny" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f823843-1e55-46d7-beee-063b30a645a9" name="Default Changelist" comment="" />
+      <created>1590477145521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590477145521</updated>
+      <workItem from="1590477154936" duration="4105000" />
+      <workItem from="1590590238769" duration="1996000" />
+      <workItem from="1590626798001" duration="3093000" />
+      <workItem from="1590632878587" duration="939000" />
+      <workItem from="1590674731515" duration="2376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590683901001">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1590683901001" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1590633215767">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590633215767" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1590684278216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590684278216" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1590684278215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590684278215" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1590684278215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590684278215" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1590684278216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590684278216" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1590684278217">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590684278217" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1590684278216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1590684278216" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1590684278216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1590684278216" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1590684278216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1590684278216" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1590477359776">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590477359776" />
+    <state x="182" y="126" key="new project wizard" timestamp="1590633220337">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="126" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1590633220337" />
+  </component>
+</project>
